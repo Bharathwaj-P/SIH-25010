@@ -42,6 +42,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 AI-Driven Multimodal Crop and Irrigation Recommendation System
+
 1.This project presents a smart agricultural solution that helps farmers select the best crops and manage water usage effectively. The system accepts multiple input formats including soil images, videos, audio, text notes, lab soil reports, and land details such as area and irrigation type. Each input is processed through image recognition, speech-to-text, video frame analysis, and text normalization. The data is then combined with external sources like weather forecasts and satellite indices for accurate decision-making.
 
 2.A soil suitability model evaluates the combined data to recommend crops suited to current conditions. If the soil is unsuitable, the system suggests improvement steps along with alternative crops. For suitable cases, a water requirement calculator estimates irrigation needs using parameters like evapotranspiration, crop coefficients, and irrigation efficiency. Crops are then ranked based on water efficiency, expected yield, and environmental suitability.
