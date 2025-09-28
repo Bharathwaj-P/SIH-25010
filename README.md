@@ -97,5 +97,5 @@ Scalability: The system can be expanded to multiple regions, incorporating local
 
 Economic Benefits: Higher yields and optimized resource use lead to increased income and reduced costs for farmers.
 ## Research and References
-From the website called Climate-Smart Agriculture
-https://www.fao.org/climate-smart-agriculture/en/
+From the website called Tech Target
+https://www.techtarget.com/iotagenda/tip/AI-and-IoT-How-do-the-internet-of-things-and-AI-work-together
