@@ -41,7 +41,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-AI-Driven Multimodal Crop and Irrigation Recommendation System
+<h1>AI-Driven Multimodal Crop and Irrigation Recommendation System</h1>
 
 1.This project presents a smart agricultural solution that helps farmers select the best crops and manage water usage effectively. The system accepts multiple input formats including soil images, videos, audio, text notes, lab soil reports, and land details such as area and irrigation type. Each input is processed through image recognition, speech-to-text, video frame analysis, and text normalization. The data is then combined with external sources like weather forecasts and satellite indices for accurate decision-making.
 
